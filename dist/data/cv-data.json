@@ -1,0 +1,144 @@
+{
+  "personalInfo": {
+    "name": "Arminaud Patrick Rakotonirina",
+    "title": "Développeur Full Stack",
+    "phone": "+261 32 48 108 37",
+    "address": "IVH 19 Abis Ambodimita",
+    "email": "arminaudrakoto@gmail.com",
+    "about": "Je suis un développeur fullstack avec plus de sept (7) ans d'expérience. J'ai une vaste expérience dans le développement Web et Mobile. Mes expériences me permettent de travailler sur des projets de toute taille et de toujours garantir la satisfaction de mes clients.",
+    "shortBio": "Passionné par le développement d'applications innovantes et performantes",
+    "availability": "Disponible pour de nouvelles opportunités",
+    "photo": "https://ui-avatars.com/api/?name=Arminaud+Patrick&size=300&background=2563eb&color=fff&bold=true"
+  },
+  "socialLinks": {
+    "linkedin": "https://linkedin.com/in/arminaud",
+    "github": "https://github.com/arminaud",
+    "twitter": "https://twitter.com/arminaud"
+  },
+  "stats": {
+    "yearsExperience": 7,
+    "projectsCompleted": 45,
+    "happyClients": 30,
+    "technologies": 15
+  },
+  "experiences": [
+    {
+      "title": "DÉVELOPPEUR FULL STACK",
+      "period": "Jan 2024 - Aujourd'hui",
+      "company": "Techtablet France",
+      "companyLogo": "🏢",
+      "description": "Concevoir, développer et maintenir des applications web à la fois sur les parties front-end et back-end. Il assure la cohérence entre l'interface utilisateur et la logique métier tout en travaillant avec différentes technologies pour assurer une expérience utilisateur fluide.",
+      "tasks": [
+        "Créer des interfaces utilisateur interactives et réactives en utilisant des technologies comme HTML, CSS, JavaScript et des frameworks front-end (vue.js, Angular et React);",
+        "Concevoir et implémenter des APIs RESTful ou GraphQL pour permettre la communication entre les services front-end et back-end ;",
+        "Développer des services backend en utilisant des langages (PHP, Node.js, Python);",
+        "Participer à la conception de l'architecture globale des applications (serveur, base de données, services);",
+        "Assurer la maintenance évolutive et corrective des applications."
+      ],
+      "technologies": ["Vue.js", "React", "Node.js", "PHP", "Python", "GraphQL"]
+    },
+    {
+      "title": "CHEF DE PROJET TECHNIQUE ET DEVELOPEUR (WEB - MOBILE)",
+      "period": "Jan 2019 - Jan 2024",
+      "company": "Nôgae Développement",
+      "companyLogo": "🏢",
+      "description": "Analyse technique des besoins, organisation, planification et mise en œuvre le développement informatique des services ou produits sur Internet et/ou web mobile pour des clients internes ou externes ; et garantir la qualité technique des applications et veiller au respect des cahiers de charges et des délais qui ont été impartis.",
+      "tasks": [
+        "Définir de l'ensemble des phases techniques du projet ;",
+        "Piloter, suivre et coordonner les projets ;",
+        "Participer aux développements techniques des projets en développant des applications web/mobil selon les besoins du client;",
+        "Référant technique"
+      ],
+      "technologies": ["Vue.js", "React Native", "Laravel", "Flutter", "Node.js", "MongoDB"]
+    },
+    {
+      "title": "DÉVELOPPEUR (WEB - MOBILE)",
+      "period": "Déc 2017 - Jan 2019",
+      "company": "Nôgae Développement",
+      "companyLogo": "🏢",
+      "description": "Participe à la conception et au développement technique de nouvelles applications web et/ou web mobile.",
+      "tasks": [
+        "Réaliser les analyses techniques (Sous la responsabilité du chef de projet) ;",
+        "Développer des applications web/mobil ;",
+        "Tester les différentes fonctionnalités ;",
+        "Assurer la maintenance corrective et évolutive des applications web/mobil"
+      ],
+      "technologies": ["PHP", "JavaScript", "MySQL", "jQuery", "Bootstrap"]
+    },
+    {
+      "title": "RESPONSABLE INFORMATIQUE ET PAIE",
+      "period": "Oct 2015 - Nov 2017",
+      "company": "SOS villages d'enfants madagascar",
+      "companyLogo": "🏢",
+      "description": "Responsable de la gestion informatique et de la paie au sein de l'association.",
+      "tasks": [
+        "Conception et Développement des application web et de logiciels informatiques de l'Association;",
+        "Mise à jour des sites web et de logiciels informatiques de l'Association;",
+        "Appui à la maintenance du parc informatique, des bases de données et de la gestion technique, administrative et financière;",
+        "Appui à l'administration du réseau informatique de l'Association;",
+        "Assure la saisie des données relatives aux dossiers individuels du personnel et des absences (congé, permission et autres);",
+        "Assure la mise à jour des données relatives au mouvement du personnel;",
+        "Assure la mise à jour des données relatives au personnel : prime, avances, assurances et avantages"
+      ],
+      "technologies": ["PHP", "MySQL", "Windows Server", "SAGE", "Réseau"]
+    },
+    {
+      "title": "ASSISTANT INFORMATIQUE ET PAIE",
+      "period": "Avr 2014 - Avr 2014",
+      "company": "SOS villages d'enfants madagascar",
+      "companyLogo": "🏢",
+      "description": "Assistance en informatique et gestion de la paie.",
+      "tasks": [
+        "Sauvegarde et restauration de la base des données ; Planification de l'Administration serveur; Surveillance et maintenance de serveur; Assure la maintenance du Park informatique.",
+        "Assure la saisie et la mise à jour des données relatives aux dossiers individuels du personnel; Assure la vérification et clôture mensuelle de la paie du personnel; Assure l'édition du livre et des bulletins de paie."
+      ],
+      "technologies": ["Windows Server", "SAGE Paie", "SQL", "Réseau"]
+    },
+    {
+      "title": "STAGIAIRE INFORMATIQUE",
+      "period": "Nov 2013 - Mar 2014",
+      "company": "SOS villages d'enfants madagascar",
+      "companyLogo": "🏢",
+      "description": "Stage en informatique avec développement d'applications et déploiement de solutions.",
+      "tasks": [
+        "Création d'un logiciel informatique pour la gestion de leurs dispensaires;",
+        "Mise en place et paramétrage du logiciel 'SAGE SUIT RH' pour le service RH."
+      ],
+      "technologies": ["PHP", "MySQL", "SAGE", "Windows"]
+    }
+  ],
+  "formation": {
+    "institution": "Institut Supérieur Polytechnique de Madagascar (ISPM)",
+    "location": "Madagascar",
+    "period": "2010 - 2015",
+    "logo": "🎓",
+    "diplomas": [
+      {
+        "date": "22 Déc 2016",
+        "title": "Diplôme de Master II (Ingéniorat) en IMTICIA"
+      },
+      {
+        "date": "16 Oct 2014",
+        "title": "Diplôme de Licence en IMTICIA"
+      }
+    ],
+    "description": "IMTICIA (Informatique Multimédia Technologie de L'information et de la Communication et Intelligence Artificielle) est une filière dont la finalité est la formation des étudiants dans l'informatique multimédia, la télécommunication"
+  },
+  "competences": {
+    "backend": ["PHP", "Laravel", "CodeIgniter", "Node.js", "Python", "WordPress", "PrestaShop", "Joomla"],
+    "frontend": ["JavaScript", "HTML/CSS", "VueJS", "React JS", "Angular JS"],
+    "mobile": ["Flutter", "Dart", "React Native", "Objective-C", "Java", "Kotlin"]
+  },
+  "langues": [
+    {"name": "Malagasy", "niveau": "Langue maternelle", "flag": "🇲🇬", "percentage": 100},
+    {"name": "Français", "niveau": "Courant", "flag": "🇫🇷", "percentage": 90},
+    {"name": "English", "niveau": "Professionnel", "flag": "🇬🇧", "percentage": 75}
+  ],
+  "loisirs": [
+    {"name": "Photographie", "icon": "📷"},
+    {"name": "Musique", "icon": "🎵"},
+    {"name": "Football", "icon": "⚽"},
+    {"name": "Lecture", "icon": "📚"},
+    {"name": "Jeux video", "icon": "🎮"}
+  ]
+}
