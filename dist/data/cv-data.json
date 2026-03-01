@@ -1,4 +1,10 @@
 {
+  "site": {
+    "title": "Arminaud Patrick Rakotonirina - Portfolio",
+    "description": "Développeur Full Stack avec plus de 7 ans d'expérience",
+    "author": "Arminaud Patrick Rakotonirina",
+    "keywords": "développeur fullstack, portfolio, vue.js, tailwind css, madagascar"
+  },
   "personalInfo": {
     "name": "Arminaud Patrick Rakotonirina",
     "title": "Développeur Full Stack",
@@ -11,9 +17,10 @@
     "photo": "https://ui-avatars.com/api/?name=Arminaud+Patrick&size=300&background=2563eb&color=fff&bold=true"
   },
   "socialLinks": {
-    "linkedin": "https://linkedin.com/in/arminaud",
     "github": "https://github.com/arminaud",
-    "twitter": "https://twitter.com/arminaud"
+    "linkedin": "https://linkedin.com/in/arminaud",
+    "twitter": "https://twitter.com/arminaud",
+    "whatsapp": "+261324810837"
   },
   "stats": {
     "yearsExperience": 7,
